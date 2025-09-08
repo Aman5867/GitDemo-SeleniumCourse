@@ -27,6 +27,7 @@ public class CoreJavaBasic1 {
 		for(int i=0; i<arr.length; i++ )
 		{
 			System.out.println(arr[i]);
+			System.out.println("Printing array");
 		}
 		
 		String[] name = {"shafaat", "aman","selenium"};
