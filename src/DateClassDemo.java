@@ -16,6 +16,14 @@ public class DateClassDemo {
 		System.out.println(sdf.format(d));
 		System.out.println(sd.format(d));
 		System.out.println(sd1.format(d));
+		
+		System.out.println("Printed formatted date");
+		System.out.println("Printed formatted date2");
+		System.out.println("Printed formatted date3");
+		
+		System.out.println("printing random things");
+		System.out.println("printing random things2");
+		System.out.println("printing random things3");
 
 	}
 

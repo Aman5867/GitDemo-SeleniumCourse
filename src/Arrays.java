@@ -19,6 +19,7 @@ public class Arrays {
 		for (int i=0;i<b.length;i++)
 		{
 			System.out.println(c[i]); 
+			System.out.println("array elements are printed");
 		}
 
 	}
