@@ -42,12 +42,13 @@ public class CoreJavaBasic1 {
 			System.out.println(s);
 		}
 		
-		String[] country_name = {"russia", "china","korea","japan"};
+		String[] country_name = {"india", "pakistan","korea","japan"};
 		
 		System.out.println("Countries: ");
 		for (String s: country_name)
 		{	
 			System.out.println(" "+s.toUpperCase());
+			System.out.println("with new changes!"); 
 		}
 		
 	}
