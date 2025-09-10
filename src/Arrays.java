@@ -21,6 +21,14 @@ public class Arrays {
 			System.out.println(c[i]); 
 			System.out.println("array elements are printed");
 		}
+		
+		int[] c_new= {1,2,4,7,5,6,9,0,11};
+		
+		for (int i=0;i<b.length;i++)
+		{
+			System.out.println(c[i]); 
+			System.out.println("new array elements are printed");
+		}
 
 	}
 

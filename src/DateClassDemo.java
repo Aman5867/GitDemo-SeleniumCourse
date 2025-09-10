@@ -24,6 +24,8 @@ public class DateClassDemo {
 		System.out.println("printing random things");
 		System.out.println("printing random things2");
 		System.out.println("printing random things3");
+		
+		System.out.println("Practicing Git");
 
 	}
 
